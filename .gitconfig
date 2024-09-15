@@ -1,0 +1,16 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+*.class
+*.log
+*.tmp
+
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de configuración de IDE
+.idea/
+.vscode/
+
